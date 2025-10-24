@@ -2,7 +2,7 @@
  * Ad Soyad: Melik Buğra Kara
  * Ogrenci No: 250541110
  * Tarih: 24.10.2025
- * Aciklama: Gorev 1 - Ogrenci Bilgi Sistemi
+ * Aciklama: Gorev 2 - Geometrik Hesaplayıcı
  * 
  * Bu program kullanıcıdan yarı çapı alıp dairenin alanı, çevresi ve çapını; aynı yarı çaplı kürenin hacmini ve yüzey alanını bulur.
  */
